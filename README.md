@@ -3,7 +3,7 @@
 ## Description
 Python script to monitor WhatsApp online times of a contact.
 
-##Usage
+## Usage
 * Enter contact names in config.cfg (Actual names like you would search for them in WA)
 * Run script and wait until it asks you to scan the generated QR code.
 * Scan the qr_waw.png (with white background!) with your WhatsApp App.
