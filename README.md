@@ -11,6 +11,10 @@ Python script to monitor WhatsApp online times of a contact.
 * A .csv file will be generated and extended over time with online time ranges of contact in it.
 * You can edit the config while script is running, new contacts added will be included in monitoring process.
 
+##Libs
+* Selenium
+* psutil
+
 ##Other
 I programmed this to show how much data we actually provide to everyone.
 WhatsApp does NOT have a setting to hide online times.
